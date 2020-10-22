@@ -1,4 +1,4 @@
 ## A HTML/JavaScript Simon Game.
 ### Code is from Udemy course: [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp)
 
-![Capture](capture-simon_game.jpg)
+![Capture](Capture-simon_game.jpg)
